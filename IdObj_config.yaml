@@ -1,0 +1,64 @@
+﻿#已训练个体识别模型的物种列表
+
+idSpecies: [Chimpanzee,
+            Red Panda,
+            Golden Snub-nosed Monkey
+
+]
+
+#标签中英文
+CN_labels:
+    Golden Snub-nosed Monkey: '川金丝猴'
+    Mandrill: '山魈'
+    Chimpanzee: '黑猩猩'
+    Squirrel monkey: '松鼠猴'
+    Hamadryas Baboon: '阿拉伯狒狒'
+    Red Panda: '小熊猫'
+    Weeper Capuchin: '灰斑悬猴'
+    Ring-tailed Lemur: '环尾狐猴'
+    Cercopithecus neglectus: '德氏长尾猴'
+    Alpaca Suri: '驼羊'
+    Alpaca: '羊驼'
+    Kangaroo: '袋鼠'
+    Elephant: '大象'
+    Rhinoceros: '犀牛'
+    Hippo: '河马'
+    Asiatic Wild Ass: '蒙古野驴'
+    Camel: '骆驼'
+    Yak: '牦牛'
+    Giraffe: '长颈鹿'
+    Zebra: '斑马'
+    Wildebeest: '角马'
+    Common Eland: '大羚羊'
+    Waterbuck: '水羚'
+    Takin: '羚牛'
+    Deer: '梅花鹿'
+    Wapiti: '马鹿'
+    Fallow Deer: '黇鹿'
+    Sambar: '水鹿'
+    White-lipped Deer: '白唇鹿'
+    Amur Tiger: '东北虎'
+    Bengal Tiger: '孟加拉虎'
+    Grey Wolf: '灰狼'
+    Jaguar: '美洲豹'
+    Black Panther: '黑豹'
+    Silver Fox: '银狐'
+    Arctic Fox: '北极狐'
+    Porcupine: '豪猪'
+    Raccoon: '浣熊'
+    Black bear: '亚洲黑熊'
+    African lion: '非洲狮'
+    Cynomolgus: '猕猴'
+    Raccoon dog: '貉'
+    Rechwe: '列氏水羚'
+
+sp_ind:
+    Golden Snub-nosed Monkey: ['奇奇']
+    Mandrill: []
+    Chimpanzee: ['多多', '艾艾']
+    Squirrel monkey: []
+    Hamadryas Baboon: []
+    Red Panda: ['大宝', '二宝', '三宝']
+
+
+
